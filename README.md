@@ -13,7 +13,9 @@
 <br>
 <br>
 When soldering, sometimes the need arises to control the temperature of the soldering iron. Especially for micro soldering or any other precision soldering job. It is important to keep the temperature under control because overheating may damage sensitive semiconductor parts. That is where a temperature-controlled soldering station comes to play. But the problem is that these are not cheap and not affordable for many hobbyists. The cheap ones available in the market are either of low quality or can’t be trusted with their temperature reading and stabilization. So, in this tutorial, we are going to build such a soldering station with some exciting features.
+<p align="center">
 <img src="https://github.com/Circuit-Digest/OLED-Soldering-Controller/blob/727c007e7173dcf8ff0b65e47d2f05577fcc15be/gif.gif" width="" alt="alt_text" title="image_tooltip">
+</p>
 <br>
 [Note: As this projects are very simple we are only providing the code, schemaitic, and a few essential images if you want to get the images or code explanations do check out the Circuit Digest website.
 <br>
