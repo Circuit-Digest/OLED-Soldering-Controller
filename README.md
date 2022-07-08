@@ -16,6 +16,23 @@ When soldering, sometimes the need arises to control the temperature of the sold
 <p align="center">
 <img src="https://github.com/Circuit-Digest/OLED-Soldering-Controller/blob/727c007e7173dcf8ff0b65e47d2f05577fcc15be/gif.gif" width="" alt="alt_text" title="image_tooltip">
 </p>
+Features
+•	Accurate temperature readings
+•	PID control for better temperature stabilization 
+•	Easy control with a single rotary encoder.
+•	Easy to use UI with OLED Display
+•	Boost mode for quick temperature increase
+•	Handle movement detection
+•	Handle to-tip disconnect error
+•	Sleep Mode
+•	Auto Power-off
+•	Input Voltage Measurement
+•	Buzzer for audio indication
+•	Multiple Tip Profiles
+•	Screen rotation
+•	Encoder direction change
+•	Buzzer On/Off
+
 <br>
 [Note: As this projects are very simple we are only providing the code, schemaitic, and a few essential images if you want to get the images or code explanations do check out the Circuit Digest website.
 <br>
